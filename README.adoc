@@ -1,6 +1,6 @@
 = test-packages
 
-This repoistory is for GitHub Packages that are used for tests.
+This repoistory is for GitHub Packages that are used for tests - not relevant for end users.
 
 E.g.
 
